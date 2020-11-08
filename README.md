@@ -1,4 +1,15 @@
 # tgbot
+
+<p align="center">
+<img src="https://telegra.ph/file/55e5c957e60d5b231cae8.jpg" alt="Mia Khalifa bot">
+
+[![Open Source Love](https://img.shields.io/badge/Find-on%20Telegram-blue.svg?logo=telegram)](https://telegram.dog/WONKRU_BOT )  
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
+
+
+
+
+
 A modular telegram Python bot running on python3 with an sqlalchemy database.
 (ഒരു മോഡുലാർ ടെലിഗ്രാം പൈത്തൺ ബോട്ട് പൈത്തൺ 3-ൽ ഒരു സ്ക്ലാൽ‌ചെമി ഡാറ്റാബേസ് ഉപയോഗിച്ച് പ്രവർത്തിക്കുന്നു.)
 
