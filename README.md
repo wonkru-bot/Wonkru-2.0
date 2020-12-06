@@ -1,4 +1,11 @@
 # tgbot
+
+
+<b>DEPLOY TO HEROKU ⬇️.</b>
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/wonkru-bot/Wonkru-2.0)
+
+
 A modular telegram Python bot running on python3 with an sqlalchemy database.
 (ഒരു മോഡുലാർ ടെലിഗ്രാം പൈത്തൺ ബോട്ട് പൈത്തൺ 3-ൽ ഒരു സ്ക്ലാൽ‌ചെമി ഡാറ്റാബേസ് ഉപയോഗിച്ച് പ്രവർത്തിക്കുന്നു.)
 
