@@ -22,7 +22,7 @@ PM_START_TEXT = """
 ഞാൻ [ഇദ്ദേഹം](tg://user?id={}) നോക്കി നടത്തുന്ന ഒരു അടിപൊളി അഡ്മിൻ ബോട്ടാണ്.
 
 എന്നെ നിർമിച്ചിരിക്കുന്നത് python3യിൽ 
-python-telegram-bot library ഉപയോഗിച്ചാണ്.... ഞാൻ പൂർണമായും opensource ആണ്.. എന്റെ കോഡ് നിങ്ങൾക്ക് [ഇവിടെ](https://github.com/wonkru-bot/Wonkru-2.0/tree/wonkru-bot-MRx-genxt) കാണാവുന്നതാണ്.
+python-telegram-bot library ഉപയോഗിച്ചാണ്.... ഞാൻ പൂർണമായും opensource ആണ്.. എന്റെ കോഡ് നിങ്ങൾക്ക് [ഇവിടെ](https://t.me/myrkittum) കാണാവുന്നതാണ്.
 വിവരങ്ങൾക്കായി /info  ഉപയോഗിക്കാവുന്നതാണ്...
 
 ലഭ്യമായ കമാന്റുകളെപ്പറ്റി അറിയുവാൻ /help അമർത്തുക.
