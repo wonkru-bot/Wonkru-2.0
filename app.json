@@ -1,7 +1,7 @@
 
 {
-  "name": "Marie_Chechi2.0",
-  "description": "Telegram's sassiest group manager. Modular Telegram group management bot!",
+  "name": "Another Marie clone-Wonkru-bot",
+  "description": "same features...💯Telegram's sassiest group manager. Modular Telegram group management bot!",
   "keywords": [
     "telegram",
     "best",
@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "hhttps://github.com/TGExplore/Marie_Chechi2.0",
+  "repository": "hhttps://github.com/wonkru-bot/Wonkru-2.0",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
